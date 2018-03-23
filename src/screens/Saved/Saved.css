@@ -1,0 +1,11 @@
+.photo-gallery {
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+}
+
+.photo-gallery img {
+	object-position: center;
+	height: 300px;
+	width: 100%;
+	object-fit: cover;
+}

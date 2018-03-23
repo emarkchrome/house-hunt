@@ -1,0 +1,8 @@
+.header {
+	background: linear-gradient(180deg, hsl(165, 100%, 40%), hsl(175, 100%, 40%));
+	height: 50px;
+}
+.profile-img {
+	width: 34px;
+	height: 34px;
+}
